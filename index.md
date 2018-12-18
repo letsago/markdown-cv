@@ -1,14 +1,13 @@
----
-layout: cv
-title: Patrick Yu's CV
----
 # Patrick Yu
 Programming Student, Former Data Analyst, Applied Physics/Materials Science Background
 
 patrick.ao.yu@gmail.com
 
 <div id="webaddress">
-<a href="https://dev.azure.com/flashhire/_git/PatrickYu?path=%2FPractice">Coursework Repo</a>|<a href="https://dev.azure.com/flashhire/_git/PatrickYu?path=%2FRoomba">Roomba Project Repo</a>
+ 
+<a href="https://dev.azure.com/flashhire/_git/PatrickYu?path=%2FPractice">Coursework Repo</a>
+<a href="https://dev.azure.com/flashhire/_git/PatrickYu?path=%2FRoomba">RoombaProject Repo</a>
+
 </div>
 
 
@@ -91,9 +90,3 @@ __California Institute of Technology__
 ## Skills
 
 • C++ • Python • JavaScript • SQL • SAS • MATLAB • Mathematica • Microsoft Office Suite
-
-<!-- ### Footer
-
-Last updated: Dec 2018 -->
-
-
