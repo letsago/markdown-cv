@@ -1,91 +1,99 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Patrick Yu's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Patrick Yu
+Programming Student, Former Data Analyst, Applied Physics/Materials Science Background
+
+patrick.ao.yu@gmail.com
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://dev.azure.com/flashhire/_git/PatrickYu?path=%2FPractice">Coursework Repo</a>|<a href="https://dev.azure.com/flashhire/_git/PatrickYu?path=%2FRoomba">Roomba Project Repo</a>
 </div>
 
 
-## Currently
+## Experience
+### Life++
+#### Programming Student 
+`Aug. 2018 - Present, Seattle, WA`
 
-Standing on the shoulders of giants
+•	Implemented own versions of vector, linked list, array, binary search tree (BST), self-balancing BST, ordered set, ordered map, unordered map (hash map), graph, and weighted graph data structures using C++
 
-### Specialized in
+•	Developed a simulation environment with test handling and AI for Roomba-like devices in C++
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+•	Added web application components and tests for frontend and backend of a startup’s server in JavaScript
 
+### Levi Strauss & Co. Advanced Analytics Team
+#### Data Analyst 								 
+`Sept. 2017 - Aug. 2018, San Francisco, CA`
 
-### Research interests
+•	Redesigned KPIs to improve safety stock business models by up to 10% which cut inventory costs
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+•	Built logistic regression classification algorithm to flag poor statistical forecasts
 
+•	Crafted reports ensuring which statistical forecasts to adopt in planning
+
+•	Partnered with sales and planners to improve allocation and distribution forecast accuracies
+
+•	Created k-means machine learning model to predict size profiles for new products
+ 
+### MIT Department of Materials Science and Engineering
+#### Research Assistant
+`Sept. 2016 - June 2017, Cambridge, MA`
+
+•	Managed research project to determine biological mechanism behind magnetosensation
+
+•	Ensured timely delivery of all components needed to build magnetic field setups
+
+### MIT Department of Materials Science and Engineering
+#### Undergraduate Research Intern                                                                    
+`June 2015 - Sept. 2015, Cambridge, MA`
+
+•	Analyzed MoS2 growth quality using Raman, photoluminescence, and X-ray photoelectron spectroscopy data
+
+•	Successfully grew high-quality 2D MoS2 samples that 100% matched theoretical quality predictions
+
+### Caltech Department of Applied Physics 
+#### Undergraduate Research Intern
+`June 2014 - Sept. 2014, Pasadena, CA`
+
+•	Implemented finite element software COMSOL to model light-trapping technique
+
+•	Increased the light absorption efficiency of modeled MoS2 – graphene 2D solar cell by 300%
+
+### The Aerospace Corporation
+#### Undergraduate Research Intern
+`July 2013 - Sept. 2013, El Segundo, CA`
+
+•	Managed project to use magnetic field imaging for quick and accurate detection of impaired satellite transistors
+
+•	Successfully implemented LabVIEW and detectors to automate magnetic field imaging process
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2012-2016`
+__California Institute of Technology__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- BS in Applied Physics
+- Graduated with Honors
 
-- Sizar
+## Leadership
+### Caltech Science Olympiad Outreach Club
+`President (April 2014 - April 2015)` 
+`October 2012 - June 2016`
 
-`1667 - death`
-__Trinity College, Cambridge__
+•	Led a team of 100+ people to successfully organize 50+ Science Olympiad tournament events and activities
 
-- Fellow
+•	Initiated outreach to 100+ high and middle schools providing information about Science Olympiad tournament 
 
+•	Analyzed all numerical grades using comprehensive Excel sheet for review of best performing teams
 
+## Skills
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+• C++ • Python • JavaScript • SQL • SAS • MATLAB • Mathematica • Microsoft Office Suite
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Dec 2018 -->
 
 
