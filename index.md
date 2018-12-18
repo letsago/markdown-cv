@@ -5,8 +5,8 @@ patrick.ao.yu@gmail.com
 
 <div id="webaddress">
  
-<a href="https://dev.azure.com/flashhire/_git/PatrickYu?path=%2FPractice">Coursework Repo</a>
-<a href="https://dev.azure.com/flashhire/_git/PatrickYu?path=%2FRoomba">RoombaProject Repo</a>
+<a href="https://dev.azure.com/flashhire/_git/PatrickYu?path=%2FPractice">Coursework</a>
+<a href="https://dev.azure.com/flashhire/_git/PatrickYu?path=%2FRoomba">RoombaProject</a>
 
 </div>
 
